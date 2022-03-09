@@ -5,3 +5,4 @@ var dateTime = date+' '+time;
 
 console.log("m2")
 console.log("try")
+console.log("catch")
