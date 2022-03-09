@@ -4,3 +4,4 @@ var time = today.getHours() + ":" + today.getMinutes() + ":" + today.getSeconds(
 var dateTime = date+' '+time;
 
 console.log("m2")
+console.log("try")
